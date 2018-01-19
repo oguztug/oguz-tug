@@ -1,0 +1,60 @@
+﻿{"kitaplar":[
+    { 
+     "kitap_id":1, 
+     "kitap_adi":"kitap adi 1",
+     "kitap_ozet":"kitap detayi 1",
+     "kitap_tur:"Tur 1",
+     "kitap_sayfa :"John", 
+     "kitap_ilkbasim:"John",
+     "kitap_yayinevi:"John",
+     "kitap_resim:"John",
+     "kitap_baski:"John" 
+},
+{ 
+     "kitap_id":2, 
+     "kitap_adi":"John",
+     "kitap_ozet":"John",
+     "kitap_tur:"John",
+     "kitap_sayfa :"John", 
+     "kitap_ilkbasim:"John",
+     "kitap_yayinevi:"John",
+     "kitap_resim:"John",
+     "kitap_baski:"John" 
+},
+{ 
+     "kitap_id":3, 
+     "kitap_adi":"John",
+     "kitap_ozet":"John",
+     "kitap_tur:"John",
+     "kitap_sayfa :"John", 
+     "kitap_ilkbasim:"John",
+     "kitap_yayinevi:"John",
+     "kitap_resim:"John",
+     "kitap_baski:"John" 
+},
+{ 
+     "kitap_id":4, 
+     "kitap_adi":"John",
+     "kitap_ozet":"John",
+     "kitap_tur:"John",
+     "kitap_sayfa :"John", 
+     "kitap_ilkbasim:"John",
+     "kitap_yayinevi:"John",
+     "kitap_resim:"John",
+     "kitap_baski:"John" 
+},
+{ 
+     "kitap_id":5, 
+     "kitap_adi":"John",
+     "kitap_ozet":"John",
+     "kitap_tur:"John",
+     "kitap_sayfa :"John", 
+     "kitap_ilkbasim:"John",
+     "kitap_yayinevi:"John",
+     "kitap_resim:"John",
+     "kitap_baski:"John" 
+}
+    
+]}
+
+
